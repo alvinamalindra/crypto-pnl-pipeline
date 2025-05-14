@@ -1,4 +1,4 @@
-# 🪙 Crypto PnL Streaming Pipeline
+# Crypto PnL Streaming Pipeline
 
 An end-to-end project for real-time trade tracking and PnL calculation using:
 
